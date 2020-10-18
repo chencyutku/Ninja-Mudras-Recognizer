@@ -1,0 +1,6 @@
+workspace/datasets/*
+source_data/images/*
+info_note
+reference_data
+.vscode
+__pycache__
